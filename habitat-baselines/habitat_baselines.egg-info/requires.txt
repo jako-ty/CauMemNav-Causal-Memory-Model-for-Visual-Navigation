@@ -1,0 +1,9 @@
+webdataset==0.1.40
+ifcfg
+threadpoolctl>=3.1.0
+torchvision
+faster_fifo>=1.4.2
+tensorboard>=2.8.0
+moviepy>=1.0.1
+torch>=1.3.1
+lmdb>=0.98
